@@ -1,0 +1,75 @@
+h1, h4 {
+    text-align:center;
+}
+
+#palacio{width: 100%;
+    filter: brightness(50%);
+}
+
+#ConfBsAs {
+    color: white;
+    position: absolute;    
+    font-size: 1.2vw;
+    text-align: right;
+    flex-flow: column wrap;
+    right: 5%; 
+    top: 36%;
+    left: 30%;
+}
+
+.card-group{
+    margin: 0% 10% ;
+}
+ .card{
+     margin: 0% 2%;
+ }
+  .botones-orador{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+    .boton1,.boton2,.boton3,.boton4{
+        display: flex;
+        border-radius: 3px; 
+        border: none;
+        font-size: .6rem;
+        font-weight: bold;
+        padding: 3px;
+        margin-right: 5px;
+    }
+    .boton1{
+        background:	rgb(240, 219, 79) ;
+    }
+    .boton2{
+        background: rgb(97, 219, 251);
+        color: white;
+    }
+    .boton3{
+        background: rgb(114,123,131);
+        color: white;
+    }
+    .boton4{
+        background: rgb(219,53,70);
+        color: white;
+    }
+   #honolulu{
+    background-color:#404145;
+   }
+
+   #formulario{
+    margin: 0% 10% ;
+}
+#floatingTextarea {
+    padding-left: 5rem;
+}
+
+#enviar{
+    background-color: rgba(145, 211, 45, 0.863);
+    border-color: rgba(145, 211, 45, 0.863)
+}
+
+
+#footer {
+    background: linear-gradient(85deg, #1c3643, #273b47, 25%, #24546e);
+
+}
