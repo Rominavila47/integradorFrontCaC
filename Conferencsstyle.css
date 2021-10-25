@@ -73,3 +73,21 @@ h1, h4 {
     background: linear-gradient(85deg, #1c3643, #273b47, 25%, #24546e);
 
 }
+
+#enviar2{
+    background-color: rgba(145, 211, 45, 0.863);
+    border-color: rgba(145, 211, 45, 0.863);
+    width: 600px;
+    justify-content: center;
+}
+
+#descuento {
+    justify-content:center;
+    text-align: center;
+
+}
+
+#total{
+    background-color:rgb(127, 188, 212,0.4);
+    height: 500;
+}
